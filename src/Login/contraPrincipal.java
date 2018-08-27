@@ -11,7 +11,6 @@ import java.awt.event.MouseEvent;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.sql.ResultSet;
-import java.sql.SQLException;
 import javax.swing.*;
 import proyectoparcial3.ProyectoParcial3;
 
